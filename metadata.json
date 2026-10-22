@@ -1,0 +1,6 @@
+{
+  "name": "Healthify",
+  "description": "Smart medicine reminder app with personalized condition-based diet and workout plans, vitals tracking, and adherence insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
